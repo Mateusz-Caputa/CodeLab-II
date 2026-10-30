@@ -1,0 +1,110 @@
+<mxfile host="65bd71144e">
+    <diagram id="Wbx3mSIrofgCiGbWdGo5" name="Page-1">
+        <mxGraphModel dx="766" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-4" edge="1" parent="1" source="J5QestK9vV5afn2kWEqO-1" style="edgeStyle=none;html=1;" target="EvKc97oHynCRKmeoCdCS-3" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="J5QestK9vV5afn2kWEqO-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Start" vertex="1">
+                    <mxGeometry height="40" width="80" x="190" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-49" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-3" style="edgeStyle=none;html=1;" target="EvKc97oHynCRKmeoCdCS-48" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="getTravelDistance()&lt;br&gt;&lt;div&gt;read distance from std::cin&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="40" width="160" x="150" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-25" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-7" style="edgeStyle=none;html=1;" target="EvKc97oHynCRKmeoCdCS-24" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;input&amp;nbsp;&amp;nbsp;&lt;/span&gt;Distance &amp;gt; 0&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="100" width="110" x="175" y="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-10" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-8" style="edgeStyle=none;html=1;" target="EvKc97oHynCRKmeoCdCS-7" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-41" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-8" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EvKc97oHynCRKmeoCdCS-38">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="436" y="390"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div&gt;input Is numeric ?&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="100" width="110" x="175" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-40" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-7" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="EvKc97oHynCRKmeoCdCS-38">
+                    <mxGeometry relative="1" x="0.3074" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="436" y="530"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-52" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-24" style="edgeStyle=none;html=1;" target="EvKc97oHynCRKmeoCdCS-51" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="isDiesel()&lt;br&gt;&lt;div&gt;select fuel type&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="40" width="160" x="150" y="620" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-29" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-26" style="edgeStyle=none;html=1;" target="EvKc97oHynCRKmeoCdCS-28" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-39" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-26" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EvKc97oHynCRKmeoCdCS-38">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="436" y="830"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-26" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;div&gt;input = y or n&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="100" width="110" x="175" y="780" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-34" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-28" style="edgeStyle=none;html=1;" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="1000" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="calculateCo2Emission()&lt;div&gt;miles x consumption x fuel&amp;nbsp;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="40" width="160" x="150" y="920" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-37" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-46" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="EvKc97oHynCRKmeoCdCS-36" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="310" y="1020" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-36" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="End" vertex="1">
+                    <mxGeometry height="40" width="80" x="396" y="1000" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-44" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-38" style="edgeStyle=none;html=1;" target="EvKc97oHynCRKmeoCdCS-43" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fad7ac;strokeColor=#b46504;" value="Catch exception" vertex="1">
+                    <mxGeometry height="40" width="140" x="366" y="850" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-45" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-43" style="edgeStyle=none;html=1;" target="EvKc97oHynCRKmeoCdCS-36" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-43" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Output error message" vertex="1">
+                    <mxGeometry height="40" width="120" x="376" y="925" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-46" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Output results" vertex="1">
+                    <mxGeometry height="40" width="120" x="165" y="1000" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-50" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-48" style="edgeStyle=none;html=1;" target="EvKc97oHynCRKmeoCdCS-8" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-48" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Input miles" vertex="1">
+                    <mxGeometry height="40" width="120" x="170" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-53" edge="1" parent="1" source="EvKc97oHynCRKmeoCdCS-51" style="edgeStyle=none;html=1;" target="EvKc97oHynCRKmeoCdCS-26" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EvKc97oHynCRKmeoCdCS-51" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Input calculate for diesel" vertex="1">
+                    <mxGeometry height="40" width="120" x="170" y="700" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
