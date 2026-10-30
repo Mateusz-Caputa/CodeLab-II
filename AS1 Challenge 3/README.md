@@ -1,8 +1,4 @@
-# Challenge 3: Book Manager
-
-> **Constraint:** Your solution must be **no more than 200 lines of code**.
-
-## Task
+# Challenge 3 Task
 
 Develop a simple **library management system** that reads book data from a file and uses it to create `Book` objects.
 
